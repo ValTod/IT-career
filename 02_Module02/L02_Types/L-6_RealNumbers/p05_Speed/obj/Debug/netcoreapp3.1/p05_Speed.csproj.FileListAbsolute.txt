@@ -1,0 +1,14 @@
+D:\00_ValDocs\OneDrive - Министерство на образованието и науката\21_Проекти\02_ИТ_кариера\Solutions\08_RetakeExam\Exam_2022.12.11\L-6_RealNumbers\p05_Speed\bin\Debug\netcoreapp3.1\p05_Speed.exe
+D:\00_ValDocs\OneDrive - Министерство на образованието и науката\21_Проекти\02_ИТ_кариера\Solutions\08_RetakeExam\Exam_2022.12.11\L-6_RealNumbers\p05_Speed\bin\Debug\netcoreapp3.1\p05_Speed.deps.json
+D:\00_ValDocs\OneDrive - Министерство на образованието и науката\21_Проекти\02_ИТ_кариера\Solutions\08_RetakeExam\Exam_2022.12.11\L-6_RealNumbers\p05_Speed\bin\Debug\netcoreapp3.1\p05_Speed.runtimeconfig.json
+D:\00_ValDocs\OneDrive - Министерство на образованието и науката\21_Проекти\02_ИТ_кариера\Solutions\08_RetakeExam\Exam_2022.12.11\L-6_RealNumbers\p05_Speed\bin\Debug\netcoreapp3.1\p05_Speed.runtimeconfig.dev.json
+D:\00_ValDocs\OneDrive - Министерство на образованието и науката\21_Проекти\02_ИТ_кариера\Solutions\08_RetakeExam\Exam_2022.12.11\L-6_RealNumbers\p05_Speed\bin\Debug\netcoreapp3.1\p05_Speed.dll
+D:\00_ValDocs\OneDrive - Министерство на образованието и науката\21_Проекти\02_ИТ_кариера\Solutions\08_RetakeExam\Exam_2022.12.11\L-6_RealNumbers\p05_Speed\bin\Debug\netcoreapp3.1\p05_Speed.pdb
+D:\00_ValDocs\OneDrive - Министерство на образованието и науката\21_Проекти\02_ИТ_кариера\Solutions\08_RetakeExam\Exam_2022.12.11\L-6_RealNumbers\p05_Speed\obj\Debug\netcoreapp3.1\p05_Speed.csproj.AssemblyReference.cache
+D:\00_ValDocs\OneDrive - Министерство на образованието и науката\21_Проекти\02_ИТ_кариера\Solutions\08_RetakeExam\Exam_2022.12.11\L-6_RealNumbers\p05_Speed\obj\Debug\netcoreapp3.1\p05_Speed.GeneratedMSBuildEditorConfig.editorconfig
+D:\00_ValDocs\OneDrive - Министерство на образованието и науката\21_Проекти\02_ИТ_кариера\Solutions\08_RetakeExam\Exam_2022.12.11\L-6_RealNumbers\p05_Speed\obj\Debug\netcoreapp3.1\p05_Speed.AssemblyInfoInputs.cache
+D:\00_ValDocs\OneDrive - Министерство на образованието и науката\21_Проекти\02_ИТ_кариера\Solutions\08_RetakeExam\Exam_2022.12.11\L-6_RealNumbers\p05_Speed\obj\Debug\netcoreapp3.1\p05_Speed.AssemblyInfo.cs
+D:\00_ValDocs\OneDrive - Министерство на образованието и науката\21_Проекти\02_ИТ_кариера\Solutions\08_RetakeExam\Exam_2022.12.11\L-6_RealNumbers\p05_Speed\obj\Debug\netcoreapp3.1\p05_Speed.csproj.CoreCompileInputs.cache
+D:\00_ValDocs\OneDrive - Министерство на образованието и науката\21_Проекти\02_ИТ_кариера\Solutions\08_RetakeExam\Exam_2022.12.11\L-6_RealNumbers\p05_Speed\obj\Debug\netcoreapp3.1\p05_Speed.dll
+D:\00_ValDocs\OneDrive - Министерство на образованието и науката\21_Проекти\02_ИТ_кариера\Solutions\08_RetakeExam\Exam_2022.12.11\L-6_RealNumbers\p05_Speed\obj\Debug\netcoreapp3.1\p05_Speed.pdb
+D:\00_ValDocs\OneDrive - Министерство на образованието и науката\21_Проекти\02_ИТ_кариера\Solutions\08_RetakeExam\Exam_2022.12.11\L-6_RealNumbers\p05_Speed\obj\Debug\netcoreapp3.1\p05_Speed.genruntimeconfig.cache

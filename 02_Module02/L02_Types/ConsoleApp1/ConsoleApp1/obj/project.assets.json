@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\00_OneDrive\\OneDrive - Министерство на образованието и науката\\21_Проекти\\02_ИТ_кариера\\Git_IT-career\\IT-career\\02_Module02\\L02_Types\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "D:\\00_ValDocs\\OneDrive - Министерство на образованието и науката\\21_Проекти\\02_ИТ_кариера\\02_Module02\\Solutions\\L02_Types\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "F:\\00_OneDrive\\OneDrive - Министерство на образованието и науката\\21_Проекти\\02_ИТ_кариера\\Git_IT-career\\IT-career\\02_Module02\\L02_Types\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectPath": "D:\\00_ValDocs\\OneDrive - Министерство на образованието и науката\\21_Проекти\\02_ИТ_кариера\\02_Module02\\Solutions\\L02_Types\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\Val\\.nuget\\packages\\",
-      "outputPath": "F:\\00_OneDrive\\OneDrive - Министерство на образованието и науката\\21_Проекти\\02_ИТ_кариера\\Git_IT-career\\IT-career\\02_Module02\\L02_Types\\ConsoleApp1\\ConsoleApp1\\obj\\",
+      "outputPath": "D:\\00_ValDocs\\OneDrive - Министерство на образованието и науката\\21_Проекти\\02_ИТ_кариера\\02_Module02\\Solutions\\L02_Types\\ConsoleApp1\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

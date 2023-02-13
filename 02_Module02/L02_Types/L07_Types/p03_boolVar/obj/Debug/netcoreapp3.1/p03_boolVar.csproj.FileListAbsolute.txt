@@ -1,0 +1,14 @@
+D:\00_ValDocs\OneDrive - Министерство на образованието и науката\21_Проекти\02_ИТ_кариера\02_Module02\Solutions\L02_Types\L07_Types\p03_boolVar\bin\Debug\netcoreapp3.1\p03_boolVar.exe
+D:\00_ValDocs\OneDrive - Министерство на образованието и науката\21_Проекти\02_ИТ_кариера\02_Module02\Solutions\L02_Types\L07_Types\p03_boolVar\bin\Debug\netcoreapp3.1\p03_boolVar.deps.json
+D:\00_ValDocs\OneDrive - Министерство на образованието и науката\21_Проекти\02_ИТ_кариера\02_Module02\Solutions\L02_Types\L07_Types\p03_boolVar\bin\Debug\netcoreapp3.1\p03_boolVar.runtimeconfig.json
+D:\00_ValDocs\OneDrive - Министерство на образованието и науката\21_Проекти\02_ИТ_кариера\02_Module02\Solutions\L02_Types\L07_Types\p03_boolVar\bin\Debug\netcoreapp3.1\p03_boolVar.runtimeconfig.dev.json
+D:\00_ValDocs\OneDrive - Министерство на образованието и науката\21_Проекти\02_ИТ_кариера\02_Module02\Solutions\L02_Types\L07_Types\p03_boolVar\bin\Debug\netcoreapp3.1\p03_boolVar.dll
+D:\00_ValDocs\OneDrive - Министерство на образованието и науката\21_Проекти\02_ИТ_кариера\02_Module02\Solutions\L02_Types\L07_Types\p03_boolVar\bin\Debug\netcoreapp3.1\p03_boolVar.pdb
+D:\00_ValDocs\OneDrive - Министерство на образованието и науката\21_Проекти\02_ИТ_кариера\02_Module02\Solutions\L02_Types\L07_Types\p03_boolVar\obj\Debug\netcoreapp3.1\p03_boolVar.csproj.AssemblyReference.cache
+D:\00_ValDocs\OneDrive - Министерство на образованието и науката\21_Проекти\02_ИТ_кариера\02_Module02\Solutions\L02_Types\L07_Types\p03_boolVar\obj\Debug\netcoreapp3.1\p03_boolVar.GeneratedMSBuildEditorConfig.editorconfig
+D:\00_ValDocs\OneDrive - Министерство на образованието и науката\21_Проекти\02_ИТ_кариера\02_Module02\Solutions\L02_Types\L07_Types\p03_boolVar\obj\Debug\netcoreapp3.1\p03_boolVar.AssemblyInfoInputs.cache
+D:\00_ValDocs\OneDrive - Министерство на образованието и науката\21_Проекти\02_ИТ_кариера\02_Module02\Solutions\L02_Types\L07_Types\p03_boolVar\obj\Debug\netcoreapp3.1\p03_boolVar.AssemblyInfo.cs
+D:\00_ValDocs\OneDrive - Министерство на образованието и науката\21_Проекти\02_ИТ_кариера\02_Module02\Solutions\L02_Types\L07_Types\p03_boolVar\obj\Debug\netcoreapp3.1\p03_boolVar.csproj.CoreCompileInputs.cache
+D:\00_ValDocs\OneDrive - Министерство на образованието и науката\21_Проекти\02_ИТ_кариера\02_Module02\Solutions\L02_Types\L07_Types\p03_boolVar\obj\Debug\netcoreapp3.1\p03_boolVar.dll
+D:\00_ValDocs\OneDrive - Министерство на образованието и науката\21_Проекти\02_ИТ_кариера\02_Module02\Solutions\L02_Types\L07_Types\p03_boolVar\obj\Debug\netcoreapp3.1\p03_boolVar.pdb
+D:\00_ValDocs\OneDrive - Министерство на образованието и науката\21_Проекти\02_ИТ_кариера\02_Module02\Solutions\L02_Types\L07_Types\p03_boolVar\obj\Debug\netcoreapp3.1\p03_boolVar.genruntimeconfig.cache
