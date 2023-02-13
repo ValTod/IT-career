@@ -1,0 +1,14 @@
+F:\00_OneDrive\OneDrive - Министерство на образованието и науката\21_Проекти\02_ИТ_кариера\02_Module02\Solutions\L04_Lists\Lists_proba\P07_EvenMaxMin\bin\Debug\netcoreapp3.1\P07_EvenMaxMin.exe
+F:\00_OneDrive\OneDrive - Министерство на образованието и науката\21_Проекти\02_ИТ_кариера\02_Module02\Solutions\L04_Lists\Lists_proba\P07_EvenMaxMin\bin\Debug\netcoreapp3.1\P07_EvenMaxMin.deps.json
+F:\00_OneDrive\OneDrive - Министерство на образованието и науката\21_Проекти\02_ИТ_кариера\02_Module02\Solutions\L04_Lists\Lists_proba\P07_EvenMaxMin\bin\Debug\netcoreapp3.1\P07_EvenMaxMin.runtimeconfig.json
+F:\00_OneDrive\OneDrive - Министерство на образованието и науката\21_Проекти\02_ИТ_кариера\02_Module02\Solutions\L04_Lists\Lists_proba\P07_EvenMaxMin\bin\Debug\netcoreapp3.1\P07_EvenMaxMin.runtimeconfig.dev.json
+F:\00_OneDrive\OneDrive - Министерство на образованието и науката\21_Проекти\02_ИТ_кариера\02_Module02\Solutions\L04_Lists\Lists_proba\P07_EvenMaxMin\bin\Debug\netcoreapp3.1\P07_EvenMaxMin.dll
+F:\00_OneDrive\OneDrive - Министерство на образованието и науката\21_Проекти\02_ИТ_кариера\02_Module02\Solutions\L04_Lists\Lists_proba\P07_EvenMaxMin\bin\Debug\netcoreapp3.1\P07_EvenMaxMin.pdb
+F:\00_OneDrive\OneDrive - Министерство на образованието и науката\21_Проекти\02_ИТ_кариера\02_Module02\Solutions\L04_Lists\Lists_proba\P07_EvenMaxMin\obj\Debug\netcoreapp3.1\P07_EvenMaxMin.csproj.AssemblyReference.cache
+F:\00_OneDrive\OneDrive - Министерство на образованието и науката\21_Проекти\02_ИТ_кариера\02_Module02\Solutions\L04_Lists\Lists_proba\P07_EvenMaxMin\obj\Debug\netcoreapp3.1\P07_EvenMaxMin.GeneratedMSBuildEditorConfig.editorconfig
+F:\00_OneDrive\OneDrive - Министерство на образованието и науката\21_Проекти\02_ИТ_кариера\02_Module02\Solutions\L04_Lists\Lists_proba\P07_EvenMaxMin\obj\Debug\netcoreapp3.1\P07_EvenMaxMin.AssemblyInfoInputs.cache
+F:\00_OneDrive\OneDrive - Министерство на образованието и науката\21_Проекти\02_ИТ_кариера\02_Module02\Solutions\L04_Lists\Lists_proba\P07_EvenMaxMin\obj\Debug\netcoreapp3.1\P07_EvenMaxMin.AssemblyInfo.cs
+F:\00_OneDrive\OneDrive - Министерство на образованието и науката\21_Проекти\02_ИТ_кариера\02_Module02\Solutions\L04_Lists\Lists_proba\P07_EvenMaxMin\obj\Debug\netcoreapp3.1\P07_EvenMaxMin.csproj.CoreCompileInputs.cache
+F:\00_OneDrive\OneDrive - Министерство на образованието и науката\21_Проекти\02_ИТ_кариера\02_Module02\Solutions\L04_Lists\Lists_proba\P07_EvenMaxMin\obj\Debug\netcoreapp3.1\P07_EvenMaxMin.dll
+F:\00_OneDrive\OneDrive - Министерство на образованието и науката\21_Проекти\02_ИТ_кариера\02_Module02\Solutions\L04_Lists\Lists_proba\P07_EvenMaxMin\obj\Debug\netcoreapp3.1\P07_EvenMaxMin.pdb
+F:\00_OneDrive\OneDrive - Министерство на образованието и науката\21_Проекти\02_ИТ_кариера\02_Module02\Solutions\L04_Lists\Lists_proba\P07_EvenMaxMin\obj\Debug\netcoreapp3.1\P07_EvenMaxMin.genruntimeconfig.cache

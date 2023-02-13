@@ -1,0 +1,14 @@
+D:\00_ValDocs\OneDrive - Министерство на образованието и науката\21_Проекти\02_ИТ_кариера\02_Module02\Solutions\L04_Lists\Lists_proba\p00_beeginLists\bin\Debug\netcoreapp3.1\p00_beeginLists.exe
+D:\00_ValDocs\OneDrive - Министерство на образованието и науката\21_Проекти\02_ИТ_кариера\02_Module02\Solutions\L04_Lists\Lists_proba\p00_beeginLists\bin\Debug\netcoreapp3.1\p00_beeginLists.deps.json
+D:\00_ValDocs\OneDrive - Министерство на образованието и науката\21_Проекти\02_ИТ_кариера\02_Module02\Solutions\L04_Lists\Lists_proba\p00_beeginLists\bin\Debug\netcoreapp3.1\p00_beeginLists.runtimeconfig.json
+D:\00_ValDocs\OneDrive - Министерство на образованието и науката\21_Проекти\02_ИТ_кариера\02_Module02\Solutions\L04_Lists\Lists_proba\p00_beeginLists\bin\Debug\netcoreapp3.1\p00_beeginLists.runtimeconfig.dev.json
+D:\00_ValDocs\OneDrive - Министерство на образованието и науката\21_Проекти\02_ИТ_кариера\02_Module02\Solutions\L04_Lists\Lists_proba\p00_beeginLists\bin\Debug\netcoreapp3.1\p00_beeginLists.dll
+D:\00_ValDocs\OneDrive - Министерство на образованието и науката\21_Проекти\02_ИТ_кариера\02_Module02\Solutions\L04_Lists\Lists_proba\p00_beeginLists\bin\Debug\netcoreapp3.1\p00_beeginLists.pdb
+D:\00_ValDocs\OneDrive - Министерство на образованието и науката\21_Проекти\02_ИТ_кариера\02_Module02\Solutions\L04_Lists\Lists_proba\p00_beeginLists\obj\Debug\netcoreapp3.1\p00_beeginLists.csproj.AssemblyReference.cache
+D:\00_ValDocs\OneDrive - Министерство на образованието и науката\21_Проекти\02_ИТ_кариера\02_Module02\Solutions\L04_Lists\Lists_proba\p00_beeginLists\obj\Debug\netcoreapp3.1\p00_beeginLists.GeneratedMSBuildEditorConfig.editorconfig
+D:\00_ValDocs\OneDrive - Министерство на образованието и науката\21_Проекти\02_ИТ_кариера\02_Module02\Solutions\L04_Lists\Lists_proba\p00_beeginLists\obj\Debug\netcoreapp3.1\p00_beeginLists.AssemblyInfoInputs.cache
+D:\00_ValDocs\OneDrive - Министерство на образованието и науката\21_Проекти\02_ИТ_кариера\02_Module02\Solutions\L04_Lists\Lists_proba\p00_beeginLists\obj\Debug\netcoreapp3.1\p00_beeginLists.AssemblyInfo.cs
+D:\00_ValDocs\OneDrive - Министерство на образованието и науката\21_Проекти\02_ИТ_кариера\02_Module02\Solutions\L04_Lists\Lists_proba\p00_beeginLists\obj\Debug\netcoreapp3.1\p00_beeginLists.csproj.CoreCompileInputs.cache
+D:\00_ValDocs\OneDrive - Министерство на образованието и науката\21_Проекти\02_ИТ_кариера\02_Module02\Solutions\L04_Lists\Lists_proba\p00_beeginLists\obj\Debug\netcoreapp3.1\p00_beeginLists.dll
+D:\00_ValDocs\OneDrive - Министерство на образованието и науката\21_Проекти\02_ИТ_кариера\02_Module02\Solutions\L04_Lists\Lists_proba\p00_beeginLists\obj\Debug\netcoreapp3.1\p00_beeginLists.pdb
+D:\00_ValDocs\OneDrive - Министерство на образованието и науката\21_Проекти\02_ИТ_кариера\02_Module02\Solutions\L04_Lists\Lists_proba\p00_beeginLists\obj\Debug\netcoreapp3.1\p00_beeginLists.genruntimeconfig.cache
