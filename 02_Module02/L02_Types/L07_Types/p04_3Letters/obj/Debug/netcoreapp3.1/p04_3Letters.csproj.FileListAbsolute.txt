@@ -1,0 +1,14 @@
+D:\00_ValDocs\OneDrive - Министерство на образованието и науката\21_Проекти\02_ИТ_кариера\02_Module02\Solutions\L02_Types\L07_Types\p04_3Letters\bin\Debug\netcoreapp3.1\p04_3Letters.exe
+D:\00_ValDocs\OneDrive - Министерство на образованието и науката\21_Проекти\02_ИТ_кариера\02_Module02\Solutions\L02_Types\L07_Types\p04_3Letters\bin\Debug\netcoreapp3.1\p04_3Letters.deps.json
+D:\00_ValDocs\OneDrive - Министерство на образованието и науката\21_Проекти\02_ИТ_кариера\02_Module02\Solutions\L02_Types\L07_Types\p04_3Letters\bin\Debug\netcoreapp3.1\p04_3Letters.runtimeconfig.json
+D:\00_ValDocs\OneDrive - Министерство на образованието и науката\21_Проекти\02_ИТ_кариера\02_Module02\Solutions\L02_Types\L07_Types\p04_3Letters\bin\Debug\netcoreapp3.1\p04_3Letters.runtimeconfig.dev.json
+D:\00_ValDocs\OneDrive - Министерство на образованието и науката\21_Проекти\02_ИТ_кариера\02_Module02\Solutions\L02_Types\L07_Types\p04_3Letters\bin\Debug\netcoreapp3.1\p04_3Letters.dll
+D:\00_ValDocs\OneDrive - Министерство на образованието и науката\21_Проекти\02_ИТ_кариера\02_Module02\Solutions\L02_Types\L07_Types\p04_3Letters\bin\Debug\netcoreapp3.1\p04_3Letters.pdb
+D:\00_ValDocs\OneDrive - Министерство на образованието и науката\21_Проекти\02_ИТ_кариера\02_Module02\Solutions\L02_Types\L07_Types\p04_3Letters\obj\Debug\netcoreapp3.1\p04_3Letters.csproj.AssemblyReference.cache
+D:\00_ValDocs\OneDrive - Министерство на образованието и науката\21_Проекти\02_ИТ_кариера\02_Module02\Solutions\L02_Types\L07_Types\p04_3Letters\obj\Debug\netcoreapp3.1\p04_3Letters.GeneratedMSBuildEditorConfig.editorconfig
+D:\00_ValDocs\OneDrive - Министерство на образованието и науката\21_Проекти\02_ИТ_кариера\02_Module02\Solutions\L02_Types\L07_Types\p04_3Letters\obj\Debug\netcoreapp3.1\p04_3Letters.AssemblyInfoInputs.cache
+D:\00_ValDocs\OneDrive - Министерство на образованието и науката\21_Проекти\02_ИТ_кариера\02_Module02\Solutions\L02_Types\L07_Types\p04_3Letters\obj\Debug\netcoreapp3.1\p04_3Letters.AssemblyInfo.cs
+D:\00_ValDocs\OneDrive - Министерство на образованието и науката\21_Проекти\02_ИТ_кариера\02_Module02\Solutions\L02_Types\L07_Types\p04_3Letters\obj\Debug\netcoreapp3.1\p04_3Letters.csproj.CoreCompileInputs.cache
+D:\00_ValDocs\OneDrive - Министерство на образованието и науката\21_Проекти\02_ИТ_кариера\02_Module02\Solutions\L02_Types\L07_Types\p04_3Letters\obj\Debug\netcoreapp3.1\p04_3Letters.dll
+D:\00_ValDocs\OneDrive - Министерство на образованието и науката\21_Проекти\02_ИТ_кариера\02_Module02\Solutions\L02_Types\L07_Types\p04_3Letters\obj\Debug\netcoreapp3.1\p04_3Letters.pdb
+D:\00_ValDocs\OneDrive - Министерство на образованието и науката\21_Проекти\02_ИТ_кариера\02_Module02\Solutions\L02_Types\L07_Types\p04_3Letters\obj\Debug\netcoreapp3.1\p04_3Letters.genruntimeconfig.cache

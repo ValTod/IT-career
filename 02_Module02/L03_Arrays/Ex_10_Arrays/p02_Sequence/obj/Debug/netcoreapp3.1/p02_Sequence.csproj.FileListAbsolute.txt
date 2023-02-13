@@ -1,0 +1,14 @@
+F:\00_OneDrive\OneDrive - Министерство на образованието и науката\21_Проекти\02_ИТ_кариера\02_Module02\Solutions\L03_Arrays\Ex_10_Arrays\p02_Sequence\bin\Debug\netcoreapp3.1\p02_Sequence.exe
+F:\00_OneDrive\OneDrive - Министерство на образованието и науката\21_Проекти\02_ИТ_кариера\02_Module02\Solutions\L03_Arrays\Ex_10_Arrays\p02_Sequence\bin\Debug\netcoreapp3.1\p02_Sequence.deps.json
+F:\00_OneDrive\OneDrive - Министерство на образованието и науката\21_Проекти\02_ИТ_кариера\02_Module02\Solutions\L03_Arrays\Ex_10_Arrays\p02_Sequence\bin\Debug\netcoreapp3.1\p02_Sequence.runtimeconfig.json
+F:\00_OneDrive\OneDrive - Министерство на образованието и науката\21_Проекти\02_ИТ_кариера\02_Module02\Solutions\L03_Arrays\Ex_10_Arrays\p02_Sequence\bin\Debug\netcoreapp3.1\p02_Sequence.runtimeconfig.dev.json
+F:\00_OneDrive\OneDrive - Министерство на образованието и науката\21_Проекти\02_ИТ_кариера\02_Module02\Solutions\L03_Arrays\Ex_10_Arrays\p02_Sequence\bin\Debug\netcoreapp3.1\p02_Sequence.dll
+F:\00_OneDrive\OneDrive - Министерство на образованието и науката\21_Проекти\02_ИТ_кариера\02_Module02\Solutions\L03_Arrays\Ex_10_Arrays\p02_Sequence\bin\Debug\netcoreapp3.1\p02_Sequence.pdb
+F:\00_OneDrive\OneDrive - Министерство на образованието и науката\21_Проекти\02_ИТ_кариера\02_Module02\Solutions\L03_Arrays\Ex_10_Arrays\p02_Sequence\obj\Debug\netcoreapp3.1\p02_Sequence.csproj.AssemblyReference.cache
+F:\00_OneDrive\OneDrive - Министерство на образованието и науката\21_Проекти\02_ИТ_кариера\02_Module02\Solutions\L03_Arrays\Ex_10_Arrays\p02_Sequence\obj\Debug\netcoreapp3.1\p02_Sequence.GeneratedMSBuildEditorConfig.editorconfig
+F:\00_OneDrive\OneDrive - Министерство на образованието и науката\21_Проекти\02_ИТ_кариера\02_Module02\Solutions\L03_Arrays\Ex_10_Arrays\p02_Sequence\obj\Debug\netcoreapp3.1\p02_Sequence.AssemblyInfoInputs.cache
+F:\00_OneDrive\OneDrive - Министерство на образованието и науката\21_Проекти\02_ИТ_кариера\02_Module02\Solutions\L03_Arrays\Ex_10_Arrays\p02_Sequence\obj\Debug\netcoreapp3.1\p02_Sequence.AssemblyInfo.cs
+F:\00_OneDrive\OneDrive - Министерство на образованието и науката\21_Проекти\02_ИТ_кариера\02_Module02\Solutions\L03_Arrays\Ex_10_Arrays\p02_Sequence\obj\Debug\netcoreapp3.1\p02_Sequence.csproj.CoreCompileInputs.cache
+F:\00_OneDrive\OneDrive - Министерство на образованието и науката\21_Проекти\02_ИТ_кариера\02_Module02\Solutions\L03_Arrays\Ex_10_Arrays\p02_Sequence\obj\Debug\netcoreapp3.1\p02_Sequence.dll
+F:\00_OneDrive\OneDrive - Министерство на образованието и науката\21_Проекти\02_ИТ_кариера\02_Module02\Solutions\L03_Arrays\Ex_10_Arrays\p02_Sequence\obj\Debug\netcoreapp3.1\p02_Sequence.pdb
+F:\00_OneDrive\OneDrive - Министерство на образованието и науката\21_Проекти\02_ИТ_кариера\02_Module02\Solutions\L03_Arrays\Ex_10_Arrays\p02_Sequence\obj\Debug\netcoreapp3.1\p02_Sequence.genruntimeconfig.cache
